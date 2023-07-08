@@ -1,3 +1,2 @@
 #!/bin/bash
-n -s /bin/ls ls
-cp -un *.html ../
+cp -u *.htm ../
